@@ -280,7 +280,7 @@ In this case:
 However, the main issue is that the middle term (plieks) is not distributed in the minor premise (P2), which makes the syllogism invalid.
 
 [Verdict]: Invalid"
-17,Some twoops are sonches,All dwaints are sonches,Some dwaints are twoops,invalid,Dimatis,nocne,,Llama-3.1-8B-Instruct,invalid,3.61,"To evaluate this syllogism, we need to check if it follows the rules of logical deduction.
+17,Some twoops are sonches,All dwaints are sonches,Some dwaints are twoops,invalid,Dimatis,nonce,,Llama-3.1-8B-Instruct,invalid,3.61,"To evaluate this syllogism, we need to check if it follows the rules of logical deduction.
 
 The syllogism is:
 
@@ -819,7 +819,7 @@ The syllogism provided does not follow a valid logical structure. The premises s
 16,All cralts are plieks,Some plieks are lebbs,Some lebbs are cralts,invalid,Datisi,nonce,,Qwen2.5-7B-Instruct,invalid,2.857,"[Verdict]: Invalid
 
 The syllogism does not follow a valid logical form. The first premise states that all cralts are plieks, which means every cralt is included in the set of plieks. The second premise states that some plieks are lebbs, indicating an overlap between the sets of plieks and lebbs. However, these premises do not necessarily imply that any of the lebbs are cralts. There could be lebbs that are not plieks at all, or there could be lebbs that are plieks but not cralts. Therefore, the conclusion that ""Some lebbs are cralts"" cannot be logically deduced from the given premises."
-17,Some twoops are sonches,All dwaints are sonches,Some dwaints are twoops,invalid,Dimatis,nocne,,Qwen2.5-7B-Instruct,invalid,1.449,"[Verdict]: Invalid
+17,Some twoops are sonches,All dwaints are sonches,Some dwaints are twoops,invalid,Dimatis,nonce,,Qwen2.5-7B-Instruct,invalid,1.449,"[Verdict]: Invalid
 
 The syllogism does not logically follow from the premises provided. While it is true that some twoops are sonches and all dwaints are sonches, we cannot conclude that some dwaints are twoops. The relationship between twoops and dwaints is not specified, and thus the conclusion does not necessarily follow from the given premises."
 18,Some yolves are whinges,All whinges are clurps,Some clurps are yolves,valid,Dimatis,nonce,,Qwen2.5-7B-Instruct,valid,2.135,"[Verdict]: Valid
@@ -1036,7 +1036,7 @@ The given syllogism is invalid because it does not follow the correct logical st
 16,All cralts are plieks,Some plieks are lebbs,Some lebbs are cralts,invalid,Datisi,nonce,,Ministral-8B-Instruct-2410,invalid,1.524,"[Verdict]: Invalid
 
 Explanation: The conclusion does not necessarily follow from the premises. The premises state that all cralts are plieks and some plieks are lebbs, but there is no information that connects lebbs to cralts. Therefore, the conclusion that some lebbs are cralts is not logically valid."
-17,Some twoops are sonches,All dwaints are sonches,Some dwaints are twoops,invalid,Dimatis,nocne,,Ministral-8B-Instruct-2410,invalid,1.402,"[Verdict]: Invalid
+17,Some twoops are sonches,All dwaints are sonches,Some dwaints are twoops,invalid,Dimatis,nonce,,Ministral-8B-Instruct-2410,invalid,1.402,"[Verdict]: Invalid
 
 Explanation: The syllogism is invalid because the conclusion does not follow from the premises. The premises state that some twoops are sonches and all dwaints are sonches, but there is no information connecting twoops and dwaints. Therefore, we cannot conclude that some dwaints are twoops."
 18,Some yolves are whinges,All whinges are clurps,Some clurps are yolves,valid,Dimatis,nonce,,Ministral-8B-Instruct-2410,valid,1.715,"[Verdict]: Valid
@@ -1603,7 +1603,7 @@ I think I might have confused the terms before, but now it seems clear. The conc
 The syllogism follows the Darii form, which is valid. Therefore, the conclusion logically follows from the premises.
 
 [Verdict]: Valid"
-17,Some twoops are sonches,All dwaints are sonches,Some dwaints are twoops,invalid,Dimatis,nocne,,DeepSeek-R1-Distill-Llama-8B,invalid,20.576,"Okay, so I have this syllogism to evaluate, and I'm supposed to figure out if the conclusion follows logically from the premises. Let me break it down step by step. 
+17,Some twoops are sonches,All dwaints are sonches,Some dwaints are twoops,invalid,Dimatis,nonce,,DeepSeek-R1-Distill-Llama-8B,invalid,20.576,"Okay, so I have this syllogism to evaluate, and I'm supposed to figure out if the conclusion follows logically from the premises. Let me break it down step by step. 
 
 First, let's list out the given statements:
 
