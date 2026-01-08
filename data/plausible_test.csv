@@ -1,0 +1,53 @@
+test_id,premise1,premise2,conclusion,correct_validity,form,abstraction,plausibility
+1,Some swawks are draphs,All swawks are kisques,Some kisques are draphs,valid,Disamis,nonce,NA
+2,All Q are B,Some Q are S,Some S are B,valid,Datisi,letter,NA
+3,All gheens are thwanks,Some chorse are gheens,Some chorse are thwanks,valid,Darii,nonce,NA
+4,All K are H,Some G are H,Some G are K,invalid,Darii,letter,NA
+5,Thinch is in blaith,Blaith is in swern,"Therefore, thinch is in swern",valid,Sunny,nonce,NA
+6,Some P are B,All G are B,Some G are P,invalid,Disamis,letter,NA
+7,All chelves are fieks,Some snealts are fieks,Some snealts are chelves,invalid,Darii,nonce,NA
+8,Some K are Q,All Q are S,Some S are K,valid,Dimatis,letter,NA
+9,All M are P,Some S are M,Some S are P,valid,Darii,letter,NA
+10,Some H are D,All H are K,Some K are D,valid,Disamis,letter,NA
+11,R is in H,H is in K,"Therefore, R is in K",valid,Sunny,letter,NA
+12,Some P are M,All S are M,Some S are P,invalid,Dimatis,letter,NA
+13,All F are G,Some G are H,Some H are F,invalid,Datisi,letter,NA
+14,All shreggs are gwerms,Some shreggs are spleashes,Some spleashes are gwerms,valid,Datisi,nonce,NA
+15,S is in P,Q is in P,"Therefore, S is in Q",invalid,Sunny,letter,NA
+16,All cralts are plieks,Some plieks are lebbs,Some lebbs are cralts,invalid,Datisi,nonce,NA
+17,Some twoops are sonches,All dwaints are sonches,Some dwaints are twoops,invalid,Dimatis,nocne,NA
+18,Some yolves are whinges,All whinges are clurps,Some clurps are yolves,valid,Dimatis,nonce,NA
+19,Kazz is in brusp,Strull is in brusp,"Therefore, kazz is in strull",invalid,Sunny,nonce,NA
+20,Some bloises are zooths,All plives are bloises,Some plives are zooths,invalid,Disamis,nonce,NA
+21,All shirts are suits,Some shoes are suits,Some shoes are shirts,invalid,Darii,concrete,implausible
+22,All clowns can juggle,Some circus performers are clowns,Some circus performers can juggle,valid,Darii,concrete,plausible
+23,All horses are ponies,Some horses are crawlers,Some crawlers are ponies,valid,Datisi,concrete,implausible
+24,Some couches are liquid,All chairs are couches,Some chairs are liquid,invalid,Disamis,concrete,implausible
+25,Some judges are liars,All liars are criminals,Some criminals are judges,invalid,Dimatis,concrete,implausible
+26,All speakers are subwoofers,Some subwoofers are drum sets,Some speakers are drum sets,invalid,Datisi,concrete,implausible
+27,All computers run code,Some calculators run code,Some calculators are computers,invalid,Darii,concrete,plausible
+28,Some paths are straight,All roads are paths,Some roads are straight,invalid,Disamis,concrete,plausible
+29,Some criminals are liars,All liars are humans,Some humans are criminals,valid,Dimatis,concrete,plausible
+30,Austin is in the United States,Texas is in the United States,"Therefore, Austin is in Texas",invalid,Sunny,concrete,plausible
+31,All baby chicks have fur,Some reptiles have fur,Some reptiles are baby chicks,invalid,Darii,concrete,implausible
+32,All singers are vocalists,Some guitarists are singers,Some guitarists are vocalists,valid,Darii,concrete,plausible
+33,All doughnuts are sugary,Some pastries are doughnuts,Some pastries are sugary,valid,Darii,concrete,plausible
+34,All statues are sculptures,Some statues are bronzes,Some bronzes are sculptures,valid,Datisi,concrete,plausible
+35,Some criminals are liars,All humans are liars,Some humans are criminals,invalid,Dimatis,concrete,plausible
+36,Some swords are decorative,All swords are weapons,Some weapons are decorative,valid,Disamis,concrete,plausible
+37,All suit pieces are made from fabric,Some shirts are made from fabric,Some shirts are suit pieces,invalid,Darii,concrete,plausible
+38,All dolls have brown hair,Some trucks are dolls,Some trucks have brown hair,valid,Darii,concrete,implausible
+39,The Vatican is in Nevada,Nevada is in Hawaii,"Therefore, the Vatican is in Hawaii",valid,Sunny,concrete,implausible
+40,Some boats are cars,All cars are trucks,Some trucks are boats,valid,Dimatis,concrete,implausible
+41,All mugs are cups,Some mugs are ceramics,Some ceramics are cups,valid,Datisi,concrete,plausible
+42,All vocalists are guitarists,Some piccolos are guitarists,Some piccolos are vocalists,invalid,Darii,concrete,implausible
+43,Some burgers are overcooked,All burgers are sandwiches,Some sandwiches are overcooked,valid,Disamis,concrete,plausible
+44,Some widows are infants,All infants are men,Some men are widows,valid,Dimatis,concrete,implausible
+45,Pittsburgh is in Pennsylvania,Philadelphia is in Pennsylvania,"Therefore, Pittsburgh is in Philadelphia",invalid,Sunny,concrete,implausible
+46,Some guns are bullets,All guns are rifles,Some rifles are bullets,valid,Disamis,concrete,implausible
+47,Some grapes are red,All grapes are fruits,Some fruits are red,valid,Disamis,concrete,plausible
+48,Some anchovies are candy,All sweet snacks are candy,Some sweet snacks are anchovies,invalid,Dimatis,concrete,implausible
+49,All baby chicks have down feathers,Some birds have down feathers,Some birds are baby chicks,invalid,Darii,concrete,plausible
+50,Some footwear are high heels,All shoes are footwear,Some shoes are high heels,invalid,Disamis,concrete,plausible
+51,All doughnuts are cakes,Some crackers are doughnuts,Some crackers are cake,valid,Darii,concrete,implausible
+52,Some passengers are luggage,All bags are luggage,Some bags are passengers,invalid,Dimatis,concrete,implausible
